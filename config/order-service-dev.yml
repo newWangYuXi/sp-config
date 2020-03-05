@@ -7,8 +7,8 @@ spring:
     username: guest
     password: guest     
 # 
-server:
-  port: 8201  
+#server:
+#  port: 8201  
   
 eureka:
   client:
